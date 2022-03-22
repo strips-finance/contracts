@@ -8,5 +8,5 @@ We are constantly hiring talented developers. If you want to join one of the inf
 
 # How to start?
 1. Select issue from issue list. 
-2. Contact ksshilov on telegram to discuss task and budget
+2. Contact @ksshilov on telegram to discuss task and budget
 3. Build and provide PR once ready
